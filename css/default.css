@@ -1,56 +1,64 @@
 body {
     color: black;
     font-size: 16px;
-    margin: 0px auto 0px auto;
-    width: 600px;
+    font-family: 'Crimson Text', serif;
+    margin: 16px 32px;
 }
 
-div#header {
+header {
     border-bottom: 2px solid black;
     margin-bottom: 30px;
-    padding: 12px 0px 12px 0px;
+    font-family: 'Averia Serif Libre', serif;
 }
 
-div#logo a {
+#title {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+#title a {
     color: black;
-    float: left;
-    font-size: 18px;
     font-weight: bold;
+    font-size: 1.5em;
     text-decoration: none;
 }
 
-div#header #navigation {
+#title em {
+    margin: 0 0.1em;
+}
+
+#definition {
+    margin: .2em 0 0 .5em;
+}
+
+header nav {
     text-align: right;
 }
 
-div#header #navigation a {
+header nav a {
     color: black;
-    font-size: 18px;
     font-weight: bold;
-    margin-left: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9em;
+    margin-left: 1.5em;
     text-decoration: none;
     text-transform: uppercase;
 }
 
-div#footer {
+footer {
     border-top: solid 2px black;
     color: #555;
-    font-size: 12px;
+    font-size: 0.8em;
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
     text-align: right;
 }
 
+article {
+    margin: 0 1em;
+}
+
 h1 {
-    font-size: 24px;
-}
-
-h2 {
-    font-size: 20px;
-}
-
-div.info {
-    color: #555;
-    font-size: 14px;
-    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
