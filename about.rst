@@ -1,17 +1,26 @@
 ---
 title: About
 ---
-Nullam imperdiet sodales orci vitae molestie. Nunc quam orci, pharetra a
-rhoncus vitae, eleifend id felis. Suspendisse potenti. Etiam vitae urna orci.
-Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
-accumsan vitae.
+Hi! My name is Ben, and this is my website!
 
-1. Amamus Unicode 碁
-2. Interdum nex magna.
+I work as a research software engineer for the `Biodiversity Institute`_
+at the `University of Kansas`_. As the lead developer of `Specify 7`_,
+I work primarily with Python and Javascript. I also deal extensively
+with MySQL and HTML5/CSS, though I am accomplished in neither web
+design nor DBA. Specify 7 is the web based incarnation of the
+venerable `Specify`_ family of collection databasing software.
 
-Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
-risus convallis commodo. Cras vehicula varius dui vitae facilisis. Proin
-elementum libero eget leo aliquet quis euismod orci vestibulum. Duis rhoncus
-lorem consequat tellus vestibulum aliquam. Quisque orci orci, malesuada porta
-blandit et, interdum nec magna.
+All opinions on this site are my own
+and do not reflect the views of my employer.
+
+I have lived in Lawrence, KS since 2002 when I came to graduate school
+at KU to study physics. I grew up in Southwest Missouri near
+Springfield.
+
+
+
+.. _Biodiversity Institute: http://biodiversity.ku.edu
+.. _University of Kansas: http://ku.edu
+.. _Specify 7: http://specifyx.specifysoftware.org/specify7/
+.. _Specify: http://specifysoftware.org
+
